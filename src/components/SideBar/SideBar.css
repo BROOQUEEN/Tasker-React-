@@ -1,0 +1,17 @@
+.left-bar {
+    width: 100px;
+    height: 100vh;
+    float: left;
+    position: absolute;
+    background-color: #131922;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px 0;
+    z-index: 100;
+}
+
+
+.left-bar__bottom {
+    
+}
