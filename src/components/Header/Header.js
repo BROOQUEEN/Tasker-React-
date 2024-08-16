@@ -18,7 +18,7 @@ const Header = (props) => {
                         <div className="header__cap-img">
                             <img src={iconGitHub} alt="" />
                         </div>
-                        <div className="header__cap-text">ПримСоцБанк</div>
+                        <div className="header__cap-text">Энергосфера</div>
                     </li>
                     <li className="header__cap">
                         <div className="header__cap-img">
