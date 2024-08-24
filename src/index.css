@@ -35,3 +35,21 @@ a {
   text-decoration: none;
   color: inherit;
 }
+
+
+
+@font-face {
+  font-family: 'Stick';
+  src: url(/src/fonts/Stick/Stick-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  font-weight: 400;
+  src: url(/src/fonts/Ubuntu/Ubuntu-Regular.ttf);
+}
+@font-face {
+  font-family: "Ubuntu";
+  font-weight: 500;
+  src: url(/src/fonts/Ubuntu/Ubuntu-Medium.ttf);
+}
